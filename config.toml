@@ -1,0 +1,4 @@
+baseURL = "https://moviecartoon409.vercel.app"
+languageCode = "en-us"
+title = "Movie Cartoon 2021"
+theme = "tale-hugo-master"
